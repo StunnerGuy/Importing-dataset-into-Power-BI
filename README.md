@@ -16,6 +16,7 @@ I will also be showing the importing a file directly into the PowerBi environs f
 # EXECUTION
 Here is a Correllation shewing step by step guide
 
-:--------------------------------:|:-------------------------------:
-  ![](Blank_Power_Bi_Page.png)   |  ![](Get_Data_Tab_opened.png)  
+| Fig 1. a                         | Fig 1. b                         |
+| -------------------------------- | -------------------------------- |
+| ![](Blank_Power_Bi_Page.png)     |  ![](Get_Data_Tab_opened.png)    |
 
