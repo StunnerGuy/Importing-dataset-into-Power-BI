@@ -42,6 +42,12 @@ Fig 4 shows a preview of the data to be imported from SQL into PowerBI just befo
 
 
 
+...
+
+---
+
+Curated By [**Oshisanya Tokunbo**](https://x.com/Stunner_Guy)
+
 
 
 
