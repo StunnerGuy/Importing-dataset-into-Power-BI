@@ -1,4 +1,4 @@
-# Importing-dataset-into-Power-BI
+# Importing Dataset Into PowerBI
 
 ## INTRODUCTION
 I will be establishing a relationship between SQL and PowerBI in a bid to create a create a seamless data bridge.
